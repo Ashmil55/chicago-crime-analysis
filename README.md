@@ -199,4 +199,4 @@ pip install --force-reinstall lightgbm
 
 ## License
 
-Add your preferred license here.
+This project is licensed under the terms of the MIT license.
